@@ -1,2 +1,2 @@
 # APOO2---PROYECT
-Acá encontraran notas de clase y ejercicios de Algoritmos y programación orientada a objetos
+Aqui se econtrara la documentacion y la codificacion del proyecto poo
