@@ -2,9 +2,10 @@
 
 <h2 style="font-family: 'Arial'; font-size:24px; color:">Integrantes</h2>
 <ul >
-    <li>Andre Rivas Garcia</li>
+    <li>Miguel Ángel Salazar Orrego</li>
     <li>Luisa Fernanda Espinal Montoya</li>
-    <li>Jesus Esteban Arias Salazar</li>
+    <li>José Ángel Sánchez Martínez</li>
+    <li>Zharick Dayana Vasquez Valenzuela</li>
 </ul>
 
 <h2 style="font-family: 'Arial'; font-size:20px">Descripción</h2>
